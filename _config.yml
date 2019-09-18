@@ -3,7 +3,7 @@ title: External Site Manager
 title_separator: "|"
 name: Hotel Property Name
 description: Site default description.
-url: 
+url: https://pokolbinhill.staging.wpengine.com
 repository: 
 default_lang: en
 languages:
